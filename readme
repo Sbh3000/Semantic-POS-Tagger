@@ -1,7 +1,8 @@
-# POS Tagger 
-pos_tagger.ipynb is the main code and readily implementable with example
-functions in it.
+POS Tagger 
 
-NOTE: The code is made on jupyter notebook and can be ran in blocks.
 
-The code has both test data output and has functionality to make POS tags for a given Sentence <Can be inserted in code at a dedicated location>.
+-> pos_tagger.ipynb is the main code and readily implementable with example functions in it.
+
+NOTE: The code is made on jupyter notebook and can be run in blocks.
+
+-> The code has both test data output and has functionality to make POS tags for a given Sentence <Can be inserted in code at a dedicated location>.
